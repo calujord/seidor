@@ -1,0 +1,358 @@
+.nav1{
+    font-size: 11px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #2B6190!important;
+    color: white;
+    font-family: "Open Sans";
+    letter-spacing: 2px;
+}
+.nav1 a{
+    color: white;
+}
+
+.items-menu{
+    width: 80%;
+    text-align: center;
+}
+.align-items-center{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+.menu2.ml-auto a {
+    font-size: 17px;
+    margin-right: 3px;
+    margin-left: 3px;
+    color: #7D7D7D;
+    font-weight: 100;
+}
+/** Carousel **/
+
+.contenido-item {
+
+    margin-top: 30px;
+    text-align: center;
+    margin: auto;
+}
+.contenido-item h3 {
+    font-size: 83px;
+    font-family: "EB Garamond";
+    letter-spacing: 1px;
+}
+.contenido-item h4{
+    font-family: "Open Sans";
+    font-size: 33px;
+    margin-top: 20px;
+    letter-spacing: 4px;
+    
+}
+.carousel-caption{
+    bottom: 160px;
+    color: black;
+}
+.contenido-item a {
+    color: black;
+    padding-top: 30px;
+    display: block;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+.stm_colored_separator{
+    border: 1px solid;
+    width: 220px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.owl-theme .owl-nav.disabled + .owl-dots{
+    text-align: right;
+}
+.texto-foto{
+    margin-left: 70px;
+
+}
+a.ver-mas {
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
+.texto-foto p{
+    color: #7D7D7D;
+    font-family: 'Open Sans'
+}
+.texto-foto h1{
+    font-family: "EB Garamond";
+}
+a.link-other {
+    color: #7D7D7D;
+    letter-spacing: 3px;
+}
+.novedades-titulo{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.novedades-titulo h1{
+    text-align: center;
+}
+ul.menu-centrado {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+}
+ul.menu-centrado li a:hover{
+    color:black;
+
+    text-decoration: none;
+}
+ul.menu-centrado li a, 
+ul.menu-centrado li{
+
+    color: #7D7D7D;
+    font-size: 13px;
+}
+ul.menu-centrado li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: "Open Sans";
+}
+.novedades-titulo h1{
+    font-family: "EB Garamond";
+    letter-spacing: 3px;
+}
+
+ul.menu-centrado li.separate {
+    padding: 0px;
+}
+.owl-carousel .owl-stage {
+    display: flex;
+    align-items: center;
+}
+button.owl-prev {
+    position: absolute;
+    top: calc(50% - 38px);
+    left: 0;
+}
+button.owl-next {
+    position: absolute;
+    top: calc(50% - 38px);
+    right: 0;
+}
+.owl-nav button {
+    background: #ffffff96!important;
+    border-radius: 50%!important;
+    width: 24px;
+    height: 24px;
+}
+.owl-carousel .owl-nav.disabled{
+    display: block;
+}
+#owl-c a.link-other{
+    text-align: center;
+    display: block;
+    font-size: 11px;
+}
+
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color:#869791;
+    border-radius: 50%;
+    /* text-align: right; */
+}
+.carousel-indicators .active{
+    background-color:#48504d;
+
+}
+.carousel-indicators {
+    text-align: right;
+    float: right;
+    right: 2% !important;
+    left: inherit;
+}
+.carousel-indicators {
+    position: relative;
+    right: inherit;
+    bottom: inherit;
+    left: inherit;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    /* justify-content: left; */
+    padding-left: 0;
+    margin-right: 5px;
+    margin-left: 0;
+    /* background: yellow; */
+    list-style: none;
+    margin-top: 9px;
+}
+.banner .link-other{
+    text-align: center;
+    font-size: 12px;
+    width: 100%
+}
+.promo h3{
+    font-size: 18px;
+    font-family: "EB Garamond";
+    text-align: center;
+    color: #7D7D7D;
+}
+.promo a{
+    font-size: 12px;
+    font-family: "Open Sans";
+    text-align: center;
+    display: block;
+}
+.footer-logo {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-family: "EB Garamond";
+}
+
+.footer-logo{
+    color:#7D7D7D;
+}
+.footer-logo input[type="text"] {
+    border: 0px;
+    border-bottom: 1px solid black;
+    width: 180px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+footer ul{
+    font-size: 12px;
+}
+footer ul li a.text-muted {
+    margin-bottom: 2px;
+    margin-top: 2px;
+    display: block;
+}
+.social a {
+    color: #3c3c3c;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.social{
+    text-align: center;
+
+    padding-top: 10px;
+}
+.label-form{
+    text-align: right;
+    padding-top: 7px;
+}
+#lang {
+    border-radius: 0;
+} 
+footer p.rights {
+    text-align: center;
+    margin-top: 10px;
+    color: #7d7d7d;
+    font-family: "Open Sans";
+    font-size: 12px;
+}
+.dropdown-shopping {
+    display: inline;
+}
+.ventana-shopping{
+    position: absolute;
+    width: 540px;
+    right: 2px;
+    border: 1px solid #afb2b42b;
+    background: white;
+    z-index: 100100100100100100100;
+    -webkit-box-shadow: 5px 7px 14px 0px rgba(143,143,143,0.54);
+-moz-box-shadow: 5px 7px 14px 0px rgba(143,143,143,0.54);
+box-shadow: 5px 7px 14px 0px rgba(143,143,143,0.54);
+}
+/** memnu shopping **/
+.ventana-header {
+    text-align: center;
+    padding: 10px;
+}.ventana-header a {
+    float: right;
+    font-size: 33px!important;
+    margin-top: -19px;
+}
+.ventana-mensajes {
+    background: #FFF3E0;
+    padding: 20px;
+}
+.ventana-item .row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.ventana-item h4 {
+    font-size: 14px;
+}
+.ventana-item p {
+    padding: 0px;
+    margin-bottom: 4px;
+    font-size: 9px;
+}
+.tachado{text-decoration:line-through;}
+.ventana-footer {
+    padding: 10px;
+}
+.btn.no-borders{
+    font-size: 11px!important;
+}   
+.no-borders {
+    border-radius: 0px !important;
+}
+.ventana-shopping{
+    display: none;
+}
+.ventana-shopping.active {
+    display: block;
+}
+.menu-tree {
+    width: 100%;
+    position: absolute;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    z-index: 100000;
+    background: white;
+    margin-top: -10px;
+    padding: 20px;
+}
+
+/*** menu  ***/
+.menu-tree .container {
+    font-size: 11px;
+    font-family: "Open Sans";
+}
+.menu-tree .container ul {
+    margin-left: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.menu-tree .container ul li a {
+    margin-bottom: 4px;
+    color: #363c42;
+    display: block;
+}
+.menu-tree.active {
+    display: block;
+}
+.menu-tree {
+    display: none;
+}
+a.p-2.text-dark.active {
+    text-decoration: underline;
+}
